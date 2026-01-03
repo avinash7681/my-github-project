@@ -1,3 +1,3 @@
-This repository demonstrates basic Git operations.
-This is my first Git repository.
+This change is made on the main branch before merging.
+
 
